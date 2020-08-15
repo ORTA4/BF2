@@ -1,2 +1,3 @@
-# BF2
-BF2 (Short for BrainF*ck 2) is a programminglanguage I created in one evening. It has a few ideas of Brainf*ck, but it's a little bit different, and both easyer and harder. It has more than double the amount of commands.
+I chalange you to build a Calculator using the least amount of Characters.
+
+Sorry for the bad English...
